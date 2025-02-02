@@ -41,7 +41,7 @@ jupyter notebook hybrid-rag.ipynb
    - The original query + retrieved texts are combined.  
 5️⃣ **Generation:**  
    - The **GPT-2** model uses the new input to generate a **precise and relevant response**.
-   - 
+    
 ---
 
 - If you have suggestions for improving the project, please submit a **Pull Request**.  
