@@ -20,7 +20,7 @@ This project implements a **hybrid Retrieval-Augmented Generation (RAG)** system
 - `faiss-gpu`
 - `numpy`
 - `scipy`
----
+
 
 ### Run the Notebook   
 ```bash
